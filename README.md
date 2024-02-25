@@ -36,7 +36,7 @@ Docker・Terraform・Kubernetes・CLI
 
 【在籍期間】
 
-2024/10/01 ~ 現在
+2023/10/01 ~ 現在
 
 【チーム編成】
 
